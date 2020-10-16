@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 nombre,apellido,edad
 Juan,Pérez,12
 León,Pardo,29
+=======
+nombre,apellido,edad
+Juan,Pérez,12
+León,Pardo,29
+>>>>>>> a2add74c18293bcb8002282ae1a3e459676aa81f
 José,Nuñez
