@@ -6,7 +6,6 @@ dependencies:
   - altair=4
   - altair_saver
   - beautifulsoup4=4.9
-  - geopandas=0.8.0
   - h5py=2.10
   - ipywidgets=7.5
   - jupyterlab=2.1.3
